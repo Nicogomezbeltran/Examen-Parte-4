@@ -5,6 +5,6 @@
 **¿Que he hecho?**
 * Lo primero que he hecho a sido buscar el codigo CSS en Ingles para despues ponerlo dentro de los paranetros de style.
 
-  Link del CSS: 
+  Link del CSS:  
 * Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
