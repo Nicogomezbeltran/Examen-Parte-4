@@ -14,3 +14,5 @@
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
 
    Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/EXAMEN%204/Examen%204%20Parte.html
+
+***Ejercicio Resuelto***
