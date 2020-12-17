@@ -6,5 +6,8 @@
 * Lo primero que he hecho a sido buscar el codigo CSS en Ingles para despues ponerlo dentro de los paranetros de style.
 
   Link del CSS: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/CSS.txt
+  
 * Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
+  Link del codigo acabado: 
+
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
