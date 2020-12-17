@@ -16,3 +16,4 @@
    Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/EXAMEN%204/Examen%204%20Parte.html
 
 ***Ejercicio Resuelto***
+![ejercicio resuelto](https://user-images.githubusercontent.com/73166385/102474470-f9f7d300-4058-11eb-95c5-a9533df739e2.PNG)
