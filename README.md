@@ -9,6 +9,8 @@
   
 * Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
  
-   Link del codigo acabado: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/EXAMEN%204/Examen%204%20Parte.html
+   Link del codigo de GitHub: https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/planets-data.txt
 
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
+
+   Link de actividad resuelta: https://github.com/Nicogomezbeltran/Examen-Parte-4/blob/main/EXAMEN%204/Examen%204%20Parte.html
