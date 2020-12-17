@@ -9,7 +9,7 @@
   
 * Despues he copiado el codigo del GitHub y lo he puesto en mi Visual Studio Code.
  
-   Link del codigo de GitHub: https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/planets-data.txt
+   Link del texto de GitHub: https://github.com/mdn/learning-area/blob/master/html/tables/assessment-start/planets-data.txt
 
 * Desde el Visual Studio Code, he cambiado las palabras inglesas por españolas.
 
